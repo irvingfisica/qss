@@ -1,3 +1,5 @@
+use std::collections::BTreeMap;
+
 fn main() {
 
     let world_pop = Vec::from([2525779, 
@@ -57,4 +59,34 @@ fn main() {
 
     println!("world_pop mean: {:?}", mean);
 
+    let years: Vec<i32> = (0..7).map(|i| 1950 + i*10).collect();
+    println!("years: {:?}", years);
+    let mut world_pop_map: BTreeMap<i32,i32> = BTreeMap::new();
+
+    years.iter().zip(world_pop.iter()).for_each(|(year,val)|{
+        world_pop_map.insert(*year,*val);
+    });
+    println!("mapa: {:?}", world_pop_map);
+
+    let population_summary = Summary::get_summary(&world_pop_map);
+
+    println!("summary: {:?}", population_summary);
+
 } 
+
+#[derive(Debug)]
+pub struct Summary {
+    sum: i32,
+    length: usize,
+    mean: f64,
+}
+
+impl Summary {
+    fn get_summary(mapa: &BTreeMap<i32,i32>) -> Summary {
+        let sum = mapa.iter().fold(0, |acc, (_, val)| acc + val);
+        let length = mapa.len();
+        let mean = sum as f64 / length as f64;
+
+        Summary {sum,mean,length}
+    }
+}
