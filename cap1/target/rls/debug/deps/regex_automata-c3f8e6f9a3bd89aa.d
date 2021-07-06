@@ -1,0 +1,11 @@
+/Volumes/caravana/proyectos/qss/cap1/target/rls/debug/deps/regex_automata-c3f8e6f9a3bd89aa.rmeta: /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/lib.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/classes.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dense.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dfa.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/regex.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/sparse.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/state_id.rs
+
+/Volumes/caravana/proyectos/qss/cap1/target/rls/debug/deps/regex_automata-c3f8e6f9a3bd89aa.d: /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/lib.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/classes.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dense.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dfa.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/regex.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/sparse.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/state_id.rs
+
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/lib.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/classes.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dense.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dfa.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/regex.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/sparse.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/state_id.rs:

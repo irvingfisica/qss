@@ -1,0 +1,10 @@
+/Volumes/caravana/proyectos/qss/cap1/target/rls/debug/deps/alloc_no_stdlib-daa9968baacf132f.rmeta: /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/lib.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/mod.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/index_macro.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/stack_allocator.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_stack_memory.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/init.rs
+
+/Volumes/caravana/proyectos/qss/cap1/target/rls/debug/deps/alloc_no_stdlib-daa9968baacf132f.d: /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/lib.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/mod.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/index_macro.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/stack_allocator.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_stack_memory.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/init.rs
+
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/lib.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/mod.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_memory/index_macro.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/stack_allocator.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/allocated_stack_memory.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.1/src/init.rs:

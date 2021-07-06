@@ -1,0 +1,11 @@
+/Volumes/caravana/proyectos/qss/cap1/target/rls/debug/deps/libthiserror_impl-7dd16df106f0d20a.dylib: /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs
+
+/Volumes/caravana/proyectos/qss/cap1/target/rls/debug/deps/thiserror_impl-7dd16df106f0d20a.d: /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs
+
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs:

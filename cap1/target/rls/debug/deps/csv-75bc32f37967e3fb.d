@@ -1,0 +1,14 @@
+/Volumes/caravana/proyectos/qss/cap1/target/rls/debug/deps/csv-75bc32f37967e3fb.rmeta: /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/lib.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/byte_record.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/cookbook.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/deserializer.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/error.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/reader.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/serializer.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/string_record.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/tutorial.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/writer.rs
+
+/Volumes/caravana/proyectos/qss/cap1/target/rls/debug/deps/csv-75bc32f37967e3fb.d: /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/lib.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/byte_record.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/cookbook.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/deserializer.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/error.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/reader.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/serializer.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/string_record.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/tutorial.rs /Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/writer.rs
+
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/lib.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/byte_record.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/cookbook.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/deserializer.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/error.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/reader.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/serializer.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/string_record.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/tutorial.rs:
+/Users/irving/.cargo/registry/src/github.com-1ecc6299db9ec823/csv-1.1.6/src/writer.rs:
